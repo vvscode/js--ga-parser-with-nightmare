@@ -2,7 +2,7 @@ var Nightmare = require('nightmare');
 var vo = require('vo');
 
 var nm = Nightmare({ show: true });
-const initialUrl = 'http://github-awards.com/users?utf8=%E2%9C%93&type=city&language=css&city=Minsk';
+const initialUrl = 'http://github-awards.com/users?utf8=%E2%9C%93&type=city&language=objective-c&city=Minsk';
 var profiles = [];
 var emails = [];
 
